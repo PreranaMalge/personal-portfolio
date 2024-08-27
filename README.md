@@ -11,4 +11,4 @@ Framework,Libraries & Program Used:
 
 Tech Stack-Used:Html,Css,Javascript.
 
-Hoisted Url:- elegant-cobbler-cd68bc.netlify.app
+Hoisted Url:- https://elegant-cobbler-cd68bc.netlify.app/
